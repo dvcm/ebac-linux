@@ -13,7 +13,7 @@ Following these instructions will make this project running in your local machin
 - virtualenv
 ```
 
-### To run
+### To run ok
 
 If your OS is Linux or Mac
 
